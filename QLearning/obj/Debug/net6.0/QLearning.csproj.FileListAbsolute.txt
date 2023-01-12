@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\bin\Debug\net6.0\QLearning.exe
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\bin\Debug\net6.0\QLearning.deps.json
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\bin\Debug\net6.0\QLearning.runtimeconfig.json
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\bin\Debug\net6.0\QLearning.dll
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\bin\Debug\net6.0\QLearning.pdb
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.AssemblyInfo.cs
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.dll
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\refint\QLearning.dll
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.pdb
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\QLearning.genruntimeconfig.cache
+C:\Users\user\Desktop\University Documents\AI\10. QLearningRoom\QLearning\QLearning\obj\Debug\net6.0\ref\QLearning.dll
